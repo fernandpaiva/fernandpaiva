@@ -1,4 +1,4 @@
-## Hello, my name is Fernando Paiva. I am a developer in .NET technologies and a Quality Analyst. 👋
+## Hello, my name is Fernando Paiva. I am a developer in .NET technologies and a Software Quality Analyst. 👋
 
 💻 Tech Stack:
 
